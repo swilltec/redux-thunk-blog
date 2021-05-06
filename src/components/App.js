@@ -8,6 +8,6 @@ const App = () => {
            <PostList />
         </div>
     )
-}
+};
 
-export default App
+export default App;
